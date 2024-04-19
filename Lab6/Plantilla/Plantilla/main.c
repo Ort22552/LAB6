@@ -34,6 +34,7 @@ int main(void)
     cli();
 	Setup();
 	sei();
+	MandarC("Hola Pedro :D");
     while (1) 
     {
 		PORTB = Terminal; 
